@@ -1,0 +1,2 @@
+# BranchAndBound
+Algorithm assignment2
